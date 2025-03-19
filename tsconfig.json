@@ -14,6 +14,12 @@
     },
     {
       "path": "./apps/backend"
+    },
+    {
+      "path": "./libs/my-lib"
+    },
+    {
+      "path": "./apps/frontend-e2e"
     }
   ]
 }
